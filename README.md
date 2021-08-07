@@ -115,7 +115,7 @@
 - 提交 [Pull Request](https://gitee.com/matrix-zyh/uni-app-admin/pulls) 改进 Admin 的代码。
 - 加入社群，与小伙伴们一同交流心得。
 <p style="display: flex;">
-  <img src="./src/static/images/group/qqGroup.png" height="320px" style="margin-right: 48px;" />
+  <img src="./src/static/images/group/qqGroup.png" height="320px" style="margin-right: 24px;" />
   <img src="./src/static/images/group/wechatGroup.png" height="320px" style="display: inline-block;" />
 </p>
 
@@ -124,6 +124,6 @@
 如果该项目对您有所帮助，可以请作者喝一杯咖啡。
 
 <p style="display: flex;">
-  <img src="./src/static/images/pay/aliPay.png" width="320px" style="display: inline-block; margin-right: 48px;" />
-  <img src="./src/static/images/pay/wechatPay.png" width="320px" style="display: inline-block;" />
+  <img src="./src/static/images/pay/aliPay.png" width="260px" style="display: inline-block; margin-right: 24px;" />
+  <img src="./src/static/images/pay/wechatPay.png" width="260px" style="display: inline-block;" />
 </p>
